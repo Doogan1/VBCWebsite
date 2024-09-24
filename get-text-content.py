@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 # URLs to scrape
 urls = {
-    'calendar_test':'https://www.vanburencountymi.gov/calendar.aspx?view=list&year=2024&month=9&day=18&CID=14'
+    'cdirectory_test':'https://www.vanburencountymi.gov/Directory.aspx'
 }
 
 # Function to extract and save text content
